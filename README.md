@@ -1,9 +1,3 @@
-# rezapex.github.io
-My portfolio of technical projects + tech blog
-
-# Reza Jafar
-linkedin.com/rezajafar
-----
 ## Experience
 ### Site Reliability Engineer
 	**Bakkt Holdings -** Remote | *April 2023 to Present*
